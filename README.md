@@ -1,7 +1,6 @@
 # USAGE
 The pytorch code for our ICCV paper [USAGE: A Unified Seed Area Generation Paradigm for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/2303.07806).
 
-[[Paper]](https://arxiv.org/abs/2303.07806)
 <p align="center">
   <img src="USAGE.png" width="720" title="Overview of USAGE" >
 </p>
